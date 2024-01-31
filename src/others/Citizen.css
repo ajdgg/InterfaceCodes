@@ -231,4 +231,7 @@ header.mw-body-header{
 	border-radius: 5px;
 }
 
+.citizen-header__button:hover{
+	background-color:initial !important;
+}
 /* </nowiki> */
